@@ -1,6 +1,7 @@
 # Binance Public API Connector Python
 [![Python 3.6](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbro-pro%2Fbinance-connector-python.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbro-pro%2Fbinance-connector-python?ref=badge_shield)
 
 This is a lightweight library that works as a connector to [Binance public API](https://github.com/binance/binance-spot-api-docs)
 
@@ -234,3 +235,7 @@ Futures and Vanilla Options APIs are not supported:
 Contributions are welcome.<br/>
 If you've found a bug within this project, please open an issue to discuss what you would like to change.<br/>
 If it's an issue with the API, please open a topic at [Binance Developer Community](https://dev.binance.vision)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbro-pro%2Fbinance-connector-python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbro-pro%2Fbinance-connector-python?ref=badge_large)
